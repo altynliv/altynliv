@@ -1,7 +1,7 @@
-## ✨ About Me
+# ✨ About Me
 
 <p align="center">
-  <img src="assets/profile.png" width="200px" style="border-radius: 50%;" alt="Altyn's photo" />
+  <img src="assets/profile.png" width="200px" alt="Altyn's photo" />
 </p>
 
 Hi everyone! 👋 My name is **Altyn**.  
@@ -9,14 +9,25 @@ I am originally from **Kazakhstan**, but I am currently studying in **Boston**.
 I love **analytics** and working with **big data**.  
 In my free time, I enjoy **sports**, **traveling**, and **spending my time productively**. 🚀
 
+🌸🌸🌸🌸🌸
 
-![GitHub Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourname&layout=compact&theme=dark)
+# 📚 Skills and Tools
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourname&theme=dark)
+- Python, R, SQL, Power BI
+- AWS Cloud Basics
+- Microsoft Office Suite
+- Data Analytics, Big Data Enthusiast
 
-![Snake animation](https://github.com/altynliv/altynliv/blob/output/github-contribution-grid-snake.svg)
+🌸🌸🌸🌸🌸
 
+# 📈 GitHub Stats
 
-<img src="https://yourimageurl.com/cat.gif" width="200px">
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=altynliv&theme=dark)
 
----
+🌸🌸🌸🌸🌸
+
+# 🐍 Contribution Snake
+
+![Contribution Snake](https://github.com/altynliv/altynliv/blob/output/github-contribution-grid-snake.svg)
+
+🌸🌸🌸🌸🌸
