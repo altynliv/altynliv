@@ -1,8 +1,7 @@
 # ✨ About Me
 
-<p align="center">
-  <img src="usakz.png" alt="Altyn's photo" />
-</p>
+<img src="usakz.png" alt="Altyn's photo" />
+
 
 Hi everyone! 👋 My name is **Altyn**.  
 I am originally from **Kazakhstan**, but I am currently studying in **Boston**.  
