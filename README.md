@@ -1,12 +1,11 @@
-- 👋 Hi, I’m @altynliv
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi there 👋
 
-<!---
-altynliv/altynliv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![GitHub Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourname&layout=compact&theme=dark)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourname&theme=dark)
+
+![Contribution Snake](https://github.com/yourname/yourname/blob/output/github-contribution-grid-snake.svg)
+
+<img src="https://yourimageurl.com/cat.gif" width="200px">
+
+---
