@@ -4,7 +4,8 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourname&theme=dark)
 
-![Contribution Snake](https://github.com/yourname/yourname/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/altynliv/altynliv/blob/output/github-contribution-grid-snake.svg)
+
 
 <img src="https://yourimageurl.com/cat.gif" width="200px">
 
