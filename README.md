@@ -1,6 +1,10 @@
 # ✨ About Me
 
 <p align="center">
+  <img src="assets/profile.png" width="200px" alt="Altyn's photo" />
+</p>
+
+<p align="center">
   <img src="assets/usakz.png" width="400px" alt="Kazakhstan and USA flags" />
 </p>
 
