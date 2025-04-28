@@ -1,7 +1,7 @@
 # ✨ About Me
 
 <p align="center">
-  <img src="usakz.jpg" width="200px" alt="Altyn's photo" />
+  <img src="usakz.jpg" alt="Altyn's photo" />
 </p>
 
 Hi everyone! 👋 My name is **Altyn**.  
