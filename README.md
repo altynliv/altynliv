@@ -1,5 +1,9 @@
 ## ✨ About Me
 
+<p align="center">
+  <img src="assets/profile.png" width="200px" style="border-radius: 50%;" alt="Altyn's photo" />
+</p>
+
 Hi everyone! 👋 My name is **Altyn**.  
 I am originally from **Kazakhstan**, but I am currently studying in **Boston**.  
 I love **analytics** and working with **big data**.  
