@@ -1,6 +1,8 @@
 # ✨ About Me
 
-<img src="usakz.png" alt="Altyn's photo" />
+<p align="center">
+  <img src="assets/usakz.png" width="400px" alt="Kazakhstan and USA flags" />
+</p>
 
 
 Hi everyone! 👋 My name is **Altyn**.  
