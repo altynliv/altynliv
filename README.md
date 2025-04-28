@@ -1,7 +1,7 @@
 # ✨ About Me
 
 <p align="center">
-  <img src="assets/profile.png" width="200px" alt="Altyn's photo" />
+  <img src="assets/altyn.png" width="200px" alt="Altyn's photo" />
 </p>
 
 <p align="center">
