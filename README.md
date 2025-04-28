@@ -1,4 +1,10 @@
-# Hi there 👋
+## ✨ About Me
+
+Hi everyone! 👋 My name is **Altyn**.  
+I am originally from **Kazakhstan**, but I am currently studying in **Boston**.  
+I love **analytics** and working with **big data**.  
+In my free time, I enjoy **sports**, **traveling**, and **spending my time productively**. 🚀
+
 
 ![GitHub Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourname&layout=compact&theme=dark)
 
