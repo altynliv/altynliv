@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/usakz.png" width="400px" alt="Kazakhstan and USA flags" />
+  <img src="assets/kzusa.png" width="400px" alt="Kazakhstan and USA flags" />
 </p>
 
 
